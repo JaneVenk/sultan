@@ -1,0 +1,157 @@
+{
+    "sections":[
+        {"id":"s1", "name":"Уход за телом"},
+        {"id":"s2", "name":"Уход за руками"},
+        {"id":"s3", "name":"Уход за ногами"},
+        {"id":"s4", "name":"Уход за лицом"},
+        {"id":"s5", "name":"Уход за волосами"},
+        {"id":"s6", "name":"Средства для загара"}
+    ],
+    "products":[
+        {
+            "imageUrl": "/images/catalogPage/products/aos.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "450 мл",
+            "brand": "AOS",
+            "name": "средство для мытья посуды Crystal",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 120,
+            "typeOfCare": "none",
+            "key":"p1"
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/ariel.svg",
+            "iconUrl": "/images/catalogPage/boxIcon.svg",
+            "amount": "15X28.8 г",
+            "brand": "ARIEL",
+            "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 100,
+            "typeOfCare": "none",
+            "key":"p2" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/bimax.svg",
+            "iconUrl": "/images/catalogPage/boxIcon.svg",
+            "amount": "15X28.8 г",
+            "brand": "BIMAX",
+            "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 100,
+            "typeOfCare": "none",
+            "key":"p3" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/biomio.svg",
+            "iconUrl": "/images/catalogPage/boxIcon.svg",
+            "amount": "30 г",
+            "brand": "BIOMIO",
+            "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 100,
+            "typeOfCare": "Уход за телом",
+            "key":"p4" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/bodycream.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "BIOMIO",
+            "name": "Крем для тела",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 500,
+            "typeOfCare": "Уход за телом",
+            "key":"p5" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/heandcream.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "BIOMIO",
+            "name": "Крем для рук",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 300,
+            "typeOfCare": "Уход за руками",
+            "key":"p6" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/list.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Крем для ног",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 300,
+            "typeOfCare": "Уход за ногами",
+            "key":"p7" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/lotus.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Крем для стоп",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 400,
+            "typeOfCare": "Уход за ногами",
+            "key":"p8" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/shampoo.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Шампунь",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 1000,
+            "typeOfCare": "Уход за волосами",
+            "key":"p9" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/shower.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Гель для душа",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 1000,
+            "typeOfCare": "Уход за телом",
+            "key":"p10" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/sorty.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "BIOMIO",
+            "name": "Средство для посуды",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 1000,
+            "typeOfCare": "none",
+            "key":"p11" 
+        },
+        {
+            "imageUrl": "/images/catalogPage/products/suncream.svg",
+            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "amount": "30 г",
+            "brand": "BIOMIO",
+            "name": "Крем для загара",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 2000,
+            "typeOfCare": "Средства для загара",
+            "key":"p12" 
+        }
+
+    ]
+}

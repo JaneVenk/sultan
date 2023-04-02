@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "Inter300";
+  src: url("../fonts/Inter-Light.ttf");
+}
+
+@font-face {
+  font-family: "Inter600";
+  src: url("../fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Inter400";
+  src: url("../fonts/Inter-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Inter700";
+  src: url("../fonts/Inter-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Inter500";
+  src: url("../fonts/Inter-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Inter800";
+  src: url("../fonts/Inter-ExtraBold.ttf");
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  position: relative;
+}
+
+main {
+  margin: 0 auto;
+  width: 1370px;
+  height: fit-content;
+}
+
+button {
+  border: none;
+  border-radius: 79px;
+  cursor: pointer;
+}
+
+input {
+  border: none;
+  border-radius: 79px;
+  padding-left: 20px;
+}
+
+input::placeholder {
+  color: rgba(92, 99, 112, 1);
+  font-family: Inter400;
+  font-size: 12px;
+}
+
+select {
+  border: none;
+  border-radius: 79px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  width: 150px;
+  height: 20px;
+}

@@ -1,0 +1,191 @@
+.product-card {
+  width: 326px;
+  height: 490px;
+  display: inline-block;
+
+  vertical-align: top;
+
+  margin: 7px;
+
+  border-radius: 10px;
+  padding: 0 21px;
+  position: relative;
+
+  background: #ffffff;
+  box-shadow: 0px 14px 39px -11px rgba(0, 0, 0, 0.06);
+}
+
+.product-image {
+  width: 100%;
+  height: 240px;
+
+  position: relative;
+}
+
+.product-img {
+  width: 100%;
+  height: 200px;
+
+  object-fit: fill;
+}
+
+.product-image a {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 0px;
+}
+
+.product-amount {
+  width: 80px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 4px;
+}
+
+.product-amount-text {
+  font-family: Inter400;
+  font-size: 12px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.product-name {
+  font-family: Inter500;
+  font-size: 16px;
+  color: rgba(17, 17, 17, 1);
+
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.product-name span {
+  font-family: Inter700;
+  font-size: 16px;
+  color: rgba(17, 17, 17, 1);
+}
+
+.product-info {
+  width: 194px;
+  height: 73px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: space-between;
+}
+
+.product-info-key {
+  font-family: Inter300;
+  font-size: 14px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.product-info-key span {
+  font-family: Inter500;
+  font-size: 14px;
+  color: rgba(17, 17, 17, 1);
+}
+
+.bottom-part {
+  width: 254px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 29px;
+  right: 49px;
+}
+
+.bottom-part-price {
+  font-family: Inter800;
+  font-size: 16px;
+  color: rgba(17, 17, 17, 1);
+}
+
+.bottom-part-button {
+  width: 153px;
+  height: 45px;
+  background-color: #ffc85e;
+}
+
+.bottom-part-button-inner {
+  width: 103px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.bottom-part-button-inner p {
+  font-family: Inter700;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.form-add-product {
+  width: 100%;
+  height: 100%;
+
+  margin: 8px auto;
+}
+
+.form-add-product input {
+  width: 100%;
+  height: 20px;
+  margin: 5px 0px;
+}
+
+.form-add-product label {
+  font-family: Inter500;
+  font-size: 14px;
+  color: #3f4e65;
+}
+
+.form-add-product button {
+  height: 25px;
+  width: 100px;
+  font-family: Inter700;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #ffc85e;
+
+  margin: 10px 10px 0px 10px;
+}
+
+.delete-product-card {
+  width: 30px;
+  height: 30px;
+  font-family: Inter700;
+  font-size: 14px;
+  color: #ffffff;
+  position: absolute;
+  top: 10px;
+  right: 21px;
+
+  background-color: #ffc85e;
+}
+
+.delete-product-card img {
+  margin-top: 3px;
+}
+
+.update-product-card {
+  width: 30px;
+  height: 30px;
+  font-family: Inter700;
+  font-size: 14px;
+  color: #ffffff;
+  position: absolute;
+  top: 50px;
+  right: 21px;
+
+  background-color: #ffc85e;
+}
+
+.update-product-card img {
+  margin-top: 3px;
+}

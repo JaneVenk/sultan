@@ -1,0 +1,98 @@
+.backet-bp {
+  width: 100%;
+  height: fit-content;
+}
+
+.current-page-bp {
+  width: 132px;
+  height: 17px;
+  margin-top: 45px;
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+}
+
+.current-title-bp {
+  font-family: Inter300;
+  font-size: 14px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.next-page-bp {
+  font-family: Inter300;
+  font-size: 14px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.title-bp {
+  font-family: Inter500;
+  font-size: 40px;
+  line-height: 48px;
+  color: rgba(17, 17, 17, 1);
+  margin-top: 50px;
+}
+
+.hor-line-bp {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bottom-bp {
+  width: 100%;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.make-order {
+  width: 192px;
+  height: 100%;
+  font-family: Inter700;
+  font-size: 14px;
+  color: white;
+
+  background-color: #ffc85e;
+}
+
+.bottom-price-bp {
+  font-family: Inter700;
+  font-size: 30px;
+  color: #111111;
+}
+
+.model-wrapper {
+  width: 100%;
+  height: 175px;
+  margin-top: 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modal-title {
+  font-family: Inter500;
+  font-size: 40px;
+  color: #111111;
+}
+
+.modal-text {
+  font-family: Inter300;
+  font-size: 20px;
+}
+
+.modal-button {
+  background: none;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.empty-bascket {
+  margin-bottom: 50px;
+  font-family: Inter300;
+  font-size: 14px;
+  color: rgba(63, 78, 101, 1);
+}

@@ -1,0 +1,266 @@
+.header-info {
+  width: 100%;
+  height: 61px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.location-email {
+  height: 100%;
+  width: 528px;
+}
+
+.location-image {
+  margin-top: 21px;
+  margin-right: 15px;
+}
+
+.adress {
+  width: 240px;
+  height: 34px;
+  display: inline-block;
+  margin-top: 14px;
+}
+
+.adress-text {
+  font-family: Inter600;
+  font-size: 14px;
+  color: rgba(17, 17, 17, 1);
+}
+
+.adress-addition {
+  font-family: Inter300;
+  font-size: 12px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.line-image {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.envelope-image {
+  margin-top: 24.3px;
+  margin-right: 15px;
+}
+
+.email {
+  width: 143px;
+  height: 34px;
+  display: inline-block;
+  margin-top: 14px;
+}
+
+.header-menu {
+  width: 512px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-menu-text {
+  font-family: Inter400;
+  font-size: 14px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  top: 61px;
+  left: 0;
+  opacity: 0.2;
+
+  background-color: rgba(63, 78, 101, 1);
+}
+
+.info {
+  width: 100%;
+  height: 109px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info-1 {
+  width: 905px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sultan-logo-image {
+  width: 156px;
+  height: 66px;
+}
+
+.info-buttons {
+  width: 470px;
+  height: 59px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info-women {
+  width: 236px;
+  height: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info-women-data {
+  width: 152px;
+  height: 64px;
+  padding-top: 5px;
+}
+
+.info-women-data-tel {
+  font-family: Inter600;
+  font-size: 14px;
+  color: rgba(17, 17, 17, 1);
+}
+
+.info-women-data-work-time {
+  font-family: Inter300;
+  font-size: 12px;
+  color: rgba(63, 78, 101, 1);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.info-women-data-order {
+  font-family: Inter400;
+  font-size: 10px;
+  color: rgba(63, 78, 101, 1);
+  text-decoration: underline;
+}
+
+.info-women-image {
+  width: 70px;
+  height: 92px;
+}
+
+.catalog {
+  width: 192px;
+  height: 59px;
+
+  background-color: rgba(255, 200, 94, 1);
+}
+
+.catalog-inner {
+  width: 84px;
+  height: 15px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.catalog-text {
+  font-family: Inter700;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.search {
+  width: 263px;
+  height: 59px;
+  background-color: rgba(237, 237, 237, 1);
+}
+
+.search-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.button-price-list {
+  width: 200px;
+  height: 59px;
+
+  background-color: rgba(255, 200, 94, 1);
+}
+
+.button-price-list-inner {
+  width: 113px;
+  height: 17px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.price-list-text {
+  font-family: Inter700;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.bascket {
+  width: 128px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.count {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 3px solid rgb(255, 255, 255);
+  position: absolute;
+  top: 0px;
+  left: 31px;
+  text-align: center;
+
+  background-color: #ffc85e;
+}
+
+.count p {
+  font-family: Inter700;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.bascket-icon {
+  width: 46px;
+  height: 46px;
+}
+
+.bascket-text {
+  width: 58px;
+  height: 39px;
+}
+
+.bascket-text-name {
+  font-family: Inter300;
+  font-size: 12px;
+  color: rgba(63, 78, 101, 1);
+}
+
+.bascket-text-price {
+  font-family: Inter600;
+  font-size: 14px;
+  color: rgba(17, 17, 17, 1);
+  margin-top: 5px;
+}
+
+.line2 {
+  width: 100%;
+  height: 2px;
+  position: absolute;
+  top: calc(61px+110px);
+  left: 0;
+  opacity: 0.2;
+
+  background-color: rgba(63, 78, 101, 1);
+}
