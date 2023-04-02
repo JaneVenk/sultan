@@ -54,7 +54,7 @@ const CatalogPage: React.FC<Props> = ({
 
   const [newProductInfo, setNewProductInfo] = useState({
     imageUrl: "",
-    iconUrl: "/images/catalogPage/bottleIcon.svg",
+    iconUrl: "/sultan/images/catalogPage/bottleIcon.svg",
     amount: "",
     brand: "",
     name: "",
@@ -405,7 +405,7 @@ const CatalogPage: React.FC<Props> = ({
 
       <div className="current-page">
         <p className="current-title">Главная</p>
-        <img src="/images/catalogPage/line.svg"></img>
+        <img src="/sultan/images/catalogPage/line.svg"></img>
         <p className="next-page">Косметика и гигиена</p>
       </div>
 
@@ -418,7 +418,7 @@ const CatalogPage: React.FC<Props> = ({
           <img
             onClick={downIconClick}
             className="down-icon"
-            src="/images/catalogPage/down.svg"
+            src="/sultan/images/catalogPage/down.svg"
           ></img>
 
           {showSort ? (
@@ -502,7 +502,7 @@ const CatalogPage: React.FC<Props> = ({
               ></input>
               <img
                 className="left-filter-search-icon"
-                src="/images/header/searchIcon.svg"
+                src="/sultan/images/header/searchIcon.svg"
               ></img>
             </div>
 
@@ -544,7 +544,7 @@ const CatalogPage: React.FC<Props> = ({
               >
                 <img
                   className="bascket-on-clean-button"
-                  src="/images/catalogPage/deletebascket.svg"
+                  src="/sultan/images/catalogPage/deletebascket.svg"
                 ></img>
               </button>
             </div>
@@ -552,7 +552,7 @@ const CatalogPage: React.FC<Props> = ({
 
           <img
             className="horizontal-line"
-            src="/images/catalogPage/horizontalLine.svg"
+            src="/sultan/images/catalogPage/horizontalLine.svg"
           ></img>
 
           {DATA.sections.map((s) => {
@@ -675,7 +675,7 @@ const CatalogPage: React.FC<Props> = ({
                 </div>
               ) : (
                 <button className="plus-button" onClick={showAddMenu}>
-                  <img src="/images/catalogPage/plus.png"></img>
+                  <img src="/sultan/images/catalogPage/plus.png"></img>
                 </button>
               )}
             </div>
@@ -699,11 +699,11 @@ const CatalogPage: React.FC<Props> = ({
             </p>
 
             <button className="arrow-right" onClick={pageButtonRight}>
-              <img src="/images/catalogPage/arrowright.svg"></img>
+              <img src="/sultan/images/catalogPage/arrowright.svg"></img>
             </button>
 
             <button className="arrow-left" onClick={pageButtonLeft}>
-              <img src="/images/catalogPage/arrowleft.svg"></img>
+              <img src="/sultan/images/catalogPage/arrowleft.svg"></img>
             </button>
           </div>
 

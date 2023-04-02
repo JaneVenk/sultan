@@ -182,7 +182,7 @@ const BascketProduct: React.FC<Props> = (Props) => {
       </div>
 
       <div className="digits-c">
-        <img src="/images/bascketPage/vline.svg"></img>
+        <img src="/sultan/images/bascketPage/vline.svg"></img>
 
         <div className="culc-c">
           <button onClick={decreaseProductCount}>-</button>
@@ -190,14 +190,14 @@ const BascketProduct: React.FC<Props> = (Props) => {
           <button onClick={increaseProductCount}>+</button>
         </div>
 
-        <img src="/images/bascketPage/vline.svg"></img>
+        <img src="/sultan/images/bascketPage/vline.svg"></img>
 
         <p className="price-c">{productPrice} ₸</p>
 
-        <img src="/images/bascketPage/vline.svg"></img>
+        <img src="/sultan/images/bascketPage/vline.svg"></img>
 
         <button onClick={del} className="del-but-c">
-          <img src="/images/bascketPage/deleteBascket.svg"></img>
+          <img src="/sultan/images/bascketPage/deleteBascket.svg"></img>
         </button>
       </div>
     </div>

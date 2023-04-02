@@ -9,8 +9,8 @@
     ],
     "products":[
         {
-            "imageUrl": "/images/catalogPage/products/aos.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/aos.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "450 мл",
             "brand": "AOS",
             "name": "средство для мытья посуды Crystal",
@@ -21,8 +21,8 @@
             "key":"p1"
         },
         {
-            "imageUrl": "/images/catalogPage/products/ariel.svg",
-            "iconUrl": "/images/catalogPage/boxIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/ariel.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
             "amount": "15X28.8 г",
             "brand": "ARIEL",
             "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
@@ -33,8 +33,8 @@
             "key":"p2" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/bimax.svg",
-            "iconUrl": "/images/catalogPage/boxIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/bimax.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
             "amount": "15X28.8 г",
             "brand": "BIMAX",
             "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
@@ -45,8 +45,8 @@
             "key":"p3" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/biomio.svg",
-            "iconUrl": "/images/catalogPage/boxIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/biomio.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
             "amount": "30 г",
             "brand": "BIOMIO",
             "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
@@ -57,8 +57,8 @@
             "key":"p4" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/bodycream.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/bodycream.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "BIOMIO",
             "name": "Крем для тела",
@@ -69,8 +69,8 @@
             "key":"p5" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/heandcream.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/heandcream.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "BIOMIO",
             "name": "Крем для рук",
@@ -81,8 +81,8 @@
             "key":"p6" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/list.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/list.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "AOS",
             "name": "Крем для ног",
@@ -93,8 +93,8 @@
             "key":"p7" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/lotus.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/lotus.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "AOS",
             "name": "Крем для стоп",
@@ -105,8 +105,8 @@
             "key":"p8" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/shampoo.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/shampoo.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "AOS",
             "name": "Шампунь",
@@ -117,8 +117,8 @@
             "key":"p9" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/shower.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/shower.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "AOS",
             "name": "Гель для душа",
@@ -129,8 +129,8 @@
             "key":"p10" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/sorty.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/sorty.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "BIOMIO",
             "name": "Средство для посуды",
@@ -141,8 +141,8 @@
             "key":"p11" 
         },
         {
-            "imageUrl": "/images/catalogPage/products/suncream.svg",
-            "iconUrl": "/images/catalogPage/bottleIcon.svg",
+            "imageUrl": "/sultan/images/catalogPage/products/suncream.svg",
+            "iconUrl": "/sultan/images/catalogPage/bottleIcon.svg",
             "amount": "30 г",
             "brand": "BIOMIO",
             "name": "Крем для загара",

@@ -94,13 +94,13 @@ const BascketPage: React.FC<Props> = ({ headerBascketCount }) => {
           <Link to={"/"}>
             <p className="current-title-bp">Главная</p>
           </Link>
-          <img src="/images/catalogPage/line.svg"></img>
+          <img src="/sultan/images/catalogPage/line.svg"></img>
           <p className="next-page-bp">Корзина</p>
         </div>
 
         <h1 className="title-bp">КОРЗИНА</h1>
 
-        <img className="hor-line-bp" src="/images/bascketPage/line.svg"></img>
+        <img className="hor-line-bp" src="/sultan/images/bascketPage/line.svg"></img>
 
         {bascetProductList.length === 0 ? (
           <div className="empty-bascket">Корзина пуста</div>
@@ -124,7 +124,7 @@ const BascketPage: React.FC<Props> = ({ headerBascketCount }) => {
                 />
                 <img
                   className="hor-line-bp"
-                  src="/images/bascketPage/line.svg"
+                  src="/sultan/images/bascketPage/line.svg"
                 ></img>
               </div>
             );
@@ -141,7 +141,7 @@ const BascketPage: React.FC<Props> = ({ headerBascketCount }) => {
 
       <Modal isOpen={isOpen} toggle={toggle}>
         <div className="model-wrapper">
-          <img src="/images/bascketPage/modal.svg"></img>
+          <img src="/sultan/images/bascketPage/modal.svg"></img>
           <p className="modal-title">СПАСИБО ЗА ЗАКАЗ</p>
           <p className="modal-text">
             Наш менеджер свяжется с вами в ближайшее время
@@ -149,7 +149,7 @@ const BascketPage: React.FC<Props> = ({ headerBascketCount }) => {
         </div>
         <Link to={"/"}>
           <button className="modal-button" onClick={toggle}>
-            <img src="/images/bascketPage/close.svg"></img>
+            <img src="/sultan/images/bascketPage/close.svg"></img>
           </button>
         </Link>
       </Modal>

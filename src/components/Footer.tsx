@@ -9,7 +9,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-info">
             <div className="footer-left-part">
-              <img src="/images/footer/logo.svg"></img>
+              <img src="/sultan/images/footer/logo.svg"></img>
               <p className="footer-left-part-text">
                 Компания «Султан» — снабжаем розничные магазины товарами "под
                 ключ" в Кокчетаве и Акмолинской области
@@ -20,7 +20,7 @@ function Footer() {
               <input placeholder="Введите ваш E-mail"></input>
               <img
                 className="footer-left-part-inputicon"
-                src="/images/footer/inputicon.svg"
+                src="/sultan/images/footer/inputicon.svg"
               ></img>
             </div>
 
@@ -51,16 +51,16 @@ function Footer() {
                 <button>
                   <div className="footer-right-part-downloadpl-button-inner">
                     <p>Прайс-лист</p>
-                    <img src="/images/footer/downloadicon.svg"></img>
+                    <img src="/sultan/images/footer/downloadicon.svg"></img>
                   </div>
                 </button>
                 <p className="footer-right-part-downloadpl-connection">
                   Связь в мессенджерах:
                 </p>
-                <img src="/images/footer/whatsup.svg"></img>
+                <img src="/sultan/images/footer/whatsup.svg"></img>
                 <img
                   className="telegram"
-                  src="/images/footer/telegram.svg"
+                  src="/sultan/images/footer/telegram.svg"
                 ></img>
               </div>
 
@@ -82,8 +82,8 @@ function Footer() {
                   На связи в любое время
                 </p>
 
-                <img src="/images/footer/Visa.svg"></img>
-                <img className="master" src="/images/footer/master.svg"></img>
+                <img src="/sultan/images/footer/Visa.svg"></img>
+                <img className="master" src="/sultan/images/footer/master.svg"></img>
               </div>
             </div>
           </div>

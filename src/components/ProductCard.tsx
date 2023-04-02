@@ -198,10 +198,10 @@ const ProductCard: React.FC<Props> = (Props) => {
           </p>
 
           <button className="delete-product-card" onClick={deleteButtonClick}>
-            <img src="/images/bascketPage/del.png"></img>
+            <img src="/sultan/images/bascketPage/del.png"></img>
           </button>
           <button className="update-product-card" onClick={updateButtonClick}>
-            <img src="/images/bascketPage/pen.png"></img>
+            <img src="/sultan/images/bascketPage/pen.png"></img>
           </button>
 
           <div className="product-info">
@@ -221,7 +221,7 @@ const ProductCard: React.FC<Props> = (Props) => {
             <button onClick={toBascketClick} className="bottom-part-button">
               <div className="bottom-part-button-inner">
                 <p>В КОРЗИНУ</p>
-                <img src="/images/catalogPage/productBasket.svg"></img>
+                <img src="/sultan/images/catalogPage/productBasket.svg"></img>
               </div>
             </button>
           </div>

@@ -15,16 +15,16 @@ const Header: React.FC<Props> = ({ bascketCount }) => {
         <div className="location-email">
           <img
             className="location-image"
-            src="/images/header/locationIcon.svg"
+            src="/sultan/images/header/locationIcon.svg"
           ></img>
           <div className="adress">
             <p className="adress-text">г. Кокчетав, ул. Ж. Ташенова 129Б</p>
             <p className="adress-addition">(Рынок Восточный)</p>
           </div>
-          <img className="line-image" src="/images/header/line.svg"></img>
+          <img className="line-image" src="/sultan/images/header/line.svg"></img>
           <img
             className="envelope-image"
-            src="/images/header/envelopeIcon.svg"
+            src="/sultan/images/header/envelopeIcon.svg"
           ></img>
           <div className="email">
             <p className="adress-text">opt.sultan@mail.ru</p>
@@ -34,11 +34,11 @@ const Header: React.FC<Props> = ({ bascketCount }) => {
 
         <div className="header-menu">
           <p className="header-menu-text">О компании</p>
-          <img src="/images/header/line.svg"></img>
+          <img src="/sultan/images/header/line.svg"></img>
           <p className="header-menu-text">Доставка и оплата</p>
-          <img src="/images/header/line.svg"></img>
+          <img src="/sultan/images/header/line.svg"></img>
           <p className="header-menu-text">Возврат</p>
-          <img src="/images/header/line.svg"></img>
+          <img src="/sultan/images/header/line.svg"></img>
           <p className="header-menu-text">Контакты</p>
         </div>
       </div>
@@ -49,20 +49,20 @@ const Header: React.FC<Props> = ({ bascketCount }) => {
         <div className="info-1">
           <img
             className="sultan-logo-image"
-            src="/images/header/sultanLogo.svg"
+            src="/sultan/images/header/sultanLogo.svg"
           ></img>
 
           <div className="info-buttons">
             <button className="catalog">
               <div className="catalog-inner">
                 <p className="catalog-text">Каталог</p>
-                <img src="/images/header/catalogIcon.svg"></img>
+                <img src="/sultan/images/header/catalogIcon.svg"></img>
               </div>
             </button>
             <input className="search" placeholder="Поиск..."></input>
             <img
               className="search-icon"
-              src="/images/header/searchIcon.svg"
+              src="/sultan/images/header/searchIcon.svg"
             ></img>
           </div>
 
@@ -76,27 +76,27 @@ const Header: React.FC<Props> = ({ bascketCount }) => {
             </div>
             <img
               className="info-women-image"
-              src="/images/header/women.svg"
+              src="/sultan/images/header/women.svg"
             ></img>
           </div>
         </div>
 
-        <img className="line-image" src="/images/header/line.svg"></img>
+        <img className="line-image" src="/sultan/images/header/line.svg"></img>
 
         <button className="button-price-list">
           <div className="button-price-list-inner">
             <p className="price-list-text">Прайс-лист</p>
-            <img src="/images/header/downloadIcon.svg"></img>
+            <img src="/sultan/images/header/downloadIcon.svg"></img>
           </div>
         </button>
 
-        <img className="line-image" src="/images/header/line.svg"></img>
+        <img className="line-image" src="/sultan/images/header/line.svg"></img>
 
         <div className="bascket">
           <Link to="/bascket">
             <img
               className="bascket-icon"
-              src="/images/header/bascketIcon.svg"
+              src="/sultan/images/header/bascketIcon.svg"
             ></img>
           </Link>
 

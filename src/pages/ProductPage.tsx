@@ -95,7 +95,7 @@ const ProductPage: React.FC<Props> = (Props) => {
         <Link to={"/"}>
           <p className="current-title-pp">Главная</p>
         </Link>
-        <img src="/images/catalogPage/line.svg"></img>
+        <img src="/sultan/images/catalogPage/line.svg"></img>
         <p className="next-page-pp">Продукт</p>
       </div>
 
@@ -128,14 +128,14 @@ const ProductPage: React.FC<Props> = (Props) => {
             <button onClick={addToBascket} className="del-but-pp">
               <div className="del-but-inner">
                 <p>В корзину</p>
-                <img src="/images/catalogPage/productBasket.svg"></img>
+                <img src="/sultan/images/catalogPage/productBasket.svg"></img>
               </div>
             </button>
           </div>
 
           <div className="main-block-info-pp-offers">
             <div className="main-block-info-pp-offers-icon">
-              <img src="/images/productPage/icon.svg"></img>
+              <img src="/sultan/images/productPage/icon.svg"></img>
             </div>
 
             <div className="main-block-info-pp-offers-text">
@@ -148,7 +148,7 @@ const ProductPage: React.FC<Props> = (Props) => {
             <div className="main-block-info-pp-offers-pricelist">
               <div className="main-block-info-pp-offers-pricelist-inner">
                 <p>Прайс-лист</p>
-                <img src="/images/productPage/downarrow.svg"></img>
+                <img src="/sultan/images/productPage/downarrow.svg"></img>
               </div>
             </div>
           </div>
@@ -170,7 +170,7 @@ const ProductPage: React.FC<Props> = (Props) => {
 
           <div className="main-block-info-pp-description">
             <p className="main-block-info-pp-description-title">
-              Описание <img src="/images/productPage/close.svg"></img>
+              Описание <img src="/sultan/images/productPage/close.svg"></img>
             </p>
             <p className="main-block-info-pp-description-text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
@@ -184,12 +184,12 @@ const ProductPage: React.FC<Props> = (Props) => {
 
           <img
             className="main-block-info-pp-horline"
-            src="/images/productPage/horline.svg"
+            src="/sultan/images/productPage/horline.svg"
           ></img>
 
           <div className="main-block-info-pp-char">
             <p className="main-block-info-pp-description-title">
-              Характеристики <img src="/images/productPage/close.svg"></img>
+              Характеристики <img src="/sultan/images/productPage/close.svg"></img>
             </p>
             <div className="main-block-info-pp-char-items">
               <p>

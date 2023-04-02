@@ -48,7 +48,7 @@ const CategoryCard: React.FC<Props> = ({
           </p>
           <img
             className="horizontal-line"
-            src="/images/catalogPage/horizontalLine.svg"
+            src="/sultan/images/catalogPage/horizontalLine.svg"
           ></img>
         </div>
       )}
