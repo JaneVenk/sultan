@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sultan/static/css/main.b2ab63b9.css",
+    "main.js": "/sultan/static/js/main.776fc0a5.js",
+    "static/media/Inter-ExtraBold.ttf": "/sultan/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
+    "static/media/Inter-Bold.ttf": "/sultan/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "/sultan/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Medium.ttf": "/sultan/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-Light.ttf": "/sultan/static/media/Inter-Light.eec8664621fec98efb37.ttf",
+    "static/media/Inter-Regular.ttf": "/sultan/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "index.html": "/sultan/index.html",
+    "main.b2ab63b9.css.map": "/sultan/static/css/main.b2ab63b9.css.map",
+    "main.776fc0a5.js.map": "/sultan/static/js/main.776fc0a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ab63b9.css",
+    "static/js/main.776fc0a5.js"
+  ]
+}
