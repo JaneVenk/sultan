@@ -151,6 +151,66 @@
             "price": 2000,
             "typeOfCare": "Средства для загара",
             "key":"p12" 
+        },
+        {
+            "imageUrl": "/sultan/images/catalogPage/products/box.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
+            "amount": "30 г",
+            "brand": "BIOMIO",
+            "name": "Крем для лица",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 2000,
+            "typeOfCare": "Уход за лицом",
+            "key":"p13" 
+        },
+        {
+            "imageUrl": "/sultan/images/catalogPage/products/fox.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Крем для лица",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 5000,
+            "typeOfCare": "Уход за лицом",
+            "key":"p14" 
+        },
+        {
+            "imageUrl": "/sultan/images/catalogPage/products/f1.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Сыворотка для лица",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 900,
+            "typeOfCare": "Уход за лицом",
+            "key":"p15" 
+        },
+        {
+            "imageUrl": "/sultan/images/catalogPage/products/f2.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Сыворотка для лица",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 900,
+            "typeOfCare": "Уход за лицом",
+            "key":"p16" 
+        },
+        {
+            "imageUrl": "/sultan/images/catalogPage/products/f3.svg",
+            "iconUrl": "/sultan/images/catalogPage/boxIcon.svg",
+            "amount": "30 г",
+            "brand": "AOS",
+            "name": "Сыворотка для лица",
+            "code": 4604049097548,
+            "manufacturer": "Нэфис",
+            "price": 900,
+            "typeOfCare": "Уход за лицом",
+            "key":"p17" 
         }
 
     ]
